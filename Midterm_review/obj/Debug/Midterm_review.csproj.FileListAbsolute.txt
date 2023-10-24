@@ -1,0 +1,8 @@
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\bin\Debug\Midterm_review.exe.config
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\bin\Debug\Midterm_review.exe
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\bin\Debug\Midterm_review.pdb
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.csproj.AssemblyReference.cache
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.csproj.SuggestedBindingRedirects.cache
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.csproj.CoreCompileInputs.cache
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.exe
+C:\Users\000882948\source\repos\Midterm_review\Midterm_review\obj\Debug\Midterm_review.pdb
