@@ -1,0 +1,8 @@
+96, Pear, Brown Pear, 80
+20, Apple, Red Apple, 10
+50, Lemon, Yellow Lemon, 6
+51, Grape, Green Grape, 8
+82, Keyboard, Keys,2,5
+80, Laptop, Thinkpad,9,50
+40, TV, 85 TV,5,200
+30, IPhone, IPhone X,30, 10
